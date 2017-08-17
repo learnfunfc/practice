@@ -12,8 +12,8 @@
 #     result=result+"\n"
 #     start = start + 5
 #     end = end + 5
-#
-# print(result)
+
+print(result)
 
 total = 0
 for num in range(1001):
